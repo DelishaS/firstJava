@@ -6,3 +6,12 @@ C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsInteg
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.deps.json
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csprojAssemblyReference.cache
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfoInputs.cache
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+D:\firstJava\firstJava\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
